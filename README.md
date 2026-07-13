@@ -91,10 +91,6 @@
 
 ## 📊 GitHub Analytics
 
----
-
-## 📊 GitHub Analytics
-
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Akhilsp1510&show_icons=true&theme=tokyonight&border_radius=12&rank_icon=github" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilsp1510&layout=compact&theme=tokyonight&border_radius=12&langs_count=8" />
